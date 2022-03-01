@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`testing_JournalEntry should first 1`] = `
+<div
+  className="journal__entry animate__animated animate__fadeIn animate__faster pointer"
+  onClick={[Function]}
+>
+  <div
+    className="journal__entry-body"
+  >
+    <p
+      className="journal__entry-title"
+    >
+      John
+    </p>
+    <p
+      className="journal__entry-content"
+    >
+      This is john
+    </p>
+  </div>
+  <div
+    className="journal__entry-date-box"
+  >
+    <span>
+      Tuesday
+    </span>
+    <h4>
+      1st
+    </h4>
+  </div>
+</div>
+`;
